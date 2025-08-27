@@ -1,0 +1,28 @@
+Machine learning para textos
+
+En este curso, descubrirás cómo convertir textos en números para que se puedan usar con algoritmos de machine learning.
+
+Estructura del curso
+
+Los datos pueden tomar muchas formas y una de las más comunes es el texto. Las personas usan texto para comunicarse a través de mensajes y las empresas usan el análisis de texto para evaluar comentarios y reseñas con el fin de saber qué piensan sus clientes acerca de su marca y productos. Hoy en día, la tecnología puede ayudar a las compañías a analizar rápidamente grandes volúmenes de texto para determinar el tema y el tono e incluso a detectar si hay alguna opinión negativa.
+
+Para aprender a hacer esto, primero necesitas convertir el texto que deseas analizar a un formato que sea compatible con el machine learning. El curso comienza con algoritmos que se utilizan para extraer características del texto. También aprenderemos sobre el modelo "bolsa de palabras" y n-gramas, que nos ayudarán en el proceso. Además, entrenaremos una regresión logística para realizar un análisis de sentimiento.
+
+Luego pasaremos a las representaciones de lenguaje, un método conveniente para la creación de características de texto. Dominarás BERT y descubrirás cómo usar modelos de lenguaje BERT previamente entrenados para la clasificación.
+
+Al final del curso trabajarás en un proyecto de clasificación de texto. Haz clic aquí para ver la descripción del proyecto.
+
+Tus objetivos:
+
+*aprender a calcular valores TF-IDF para textos;
+*descubrir cómo crear embebidos con un modelo BERT;
+*construir un modelo de clasificación de textos.
+
+En este sprint agregarás una nueva habilidad a tu conjunto de herramientas:
+
+¿Cuánto tiempo llevará?
+Este curso es un poco más desafiante de lo habitual. Vas a dominar muchas herramientas para trabajar con textos. ¡Pero no tengas miedo! En el seminario web, tus tutores te ayudarán a comprender todo sobre los modelos BERT.
+
+Espera pasar entre 30 y 50 horas para completar este material, dependiendo de tus conocimientos previos y hábitos de estudio.
+
+

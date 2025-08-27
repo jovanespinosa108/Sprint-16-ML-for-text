@@ -1,0 +1,15 @@
+Introducción
+
+En nuestro primer capítulo vamos a aprender a extraer características de los textos.
+
+Empezarás por:
+
+*aprender sobre el modelo "bolsa de palabras" (BoW) y los n-gramas;
+*dominar el método TF-IDF para la creación de características;
+*construir un modelo para la clasificación de texto.
+
+¿Cuánto tiempo llevará?
+10 lecciones de 10-15 minutos cada una.
+
+Descripción del ejercicio
+Construirás un modelo para clasificar los comentarios como positivos o negativos.
