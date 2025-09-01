@@ -1,0 +1,13 @@
+Introducción
+En este capítulo, vamos a trabajar con las representaciones del lenguaje.
+
+Empezarás por:
+* descubrir qué son los insertados;
+* aprender a crear funciones a partir de texto con el modelo BERT;
+* construir un modelo para la clasificación de texto.
+
+¿Cuánto tiempo llevará?
+10 lecciones de 10-15 minutos cada una.
+
+Descripción del ejercicio
+Vamos a crear un modelo para clasificar las reseñas como positivas o negativas con un mayor nivel de exactitud.
